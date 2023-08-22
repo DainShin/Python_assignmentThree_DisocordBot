@@ -16,7 +16,7 @@ import discord
 from datetime import datetime
 
 # Token number, Server name and csv file name
-TOKEN = "MTEzMjAzNTI3MDE2Njk3ODcyMg.G4CFJg.xkLh-0Goukfa-JYlfeg7tUgVJwSPA3p1wWOtcg"
+TOKEN = ""
 GUILD = "GC-01"
 fname = "memberLogon.csv"
 
